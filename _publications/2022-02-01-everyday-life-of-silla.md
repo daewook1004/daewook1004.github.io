@@ -1,10 +1,10 @@
 ---
 title: "Everyday Life of Silla: Socially Intelligent Multi-Agent Based Virtual Museum for Group Visit Experience"
 collection: publications
-category: domestic
-permalink: /publication/2022-02-01-everyday-life-of-silla
+category: preprints
+permalink: /publication/2026-02-25-everyday-life-of-silla
 excerpt: 'Master''s Thesis'
-date: 2022-02-01
+date: 2026-02-25
 venue: 'Master''s Thesis'
 paperurl: '#'
 header:

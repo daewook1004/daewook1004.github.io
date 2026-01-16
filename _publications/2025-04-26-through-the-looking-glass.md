@@ -3,23 +3,17 @@ title: "\"Through the Looking Glass, and What We Found There\": A Comprehensive 
 collection: publications
 category: international
 permalink: /publication/2025-04-26-through-the-looking-glass
-excerpt: 'CHI 2025 (정보과학회 최우수 국제 학술대회 S등급)'
+
+excerpt: "CHI 2025 (정보과학회 최우수 국제 학술대회 S등급)<br><br>Pass-through technologies are promising for mixed reality (MR) systems. Therefore, various MR applications operating in pass-through devices emerged in diverse domains, such as education and healthcare. However, research on the everyday use of pass-through devices remains limited, despite it blending real and virtual environments. This study explores the user experience of pass-through devices in people’s daily tasks. We conducted a field study with 16 participants and analyzed data from eight daily tasks. For in-depth analysis, we employed three measures in terms of quantitative, qualitative, and bio-signal. As a result, we found that participants felt differently in terms of immersion, collision anxiety, and workload. Findings suggest that pass-through devices are not yet fully ready for integration into daily life. However, the potential for widespread adoption exists as the technology continues to advance. Finally, we offer guidelines and considerations to improve the usability of pass-through devices for everyday use."
 date: 2025-04-26
 venue: 'CHI 2025'
 paperurl: '#'
 header:
-  teaser: # /images/teaser.png (이미지 경로를 설정하세요)
+  teaser: /images/passthough_teaser.png 
 ---
-# 🎥 Demo Video
+# 🔗 Paper Link
 
-<!-- 영상이 있다면 아래 주석을 풀고 경로를 수정하세요 -->
-<!--
-<video width="100%" height="auto" controls playsinline preload="auto">
-  <source src="{{ site.baseurl }}/files/demo_video.mp4" type="video/mp4">
-  <p>Your browser does not support the video tag. Please download the video <a href="{{ site.baseurl }}/files/demo_video.mp4">here</a>.</p>
-</video>
--->
-*(영상이 있다면 이곳에 비디오 플레이어를 추가하세요)*
+[<i class="fas fa-external-link-alt"></i> View on ACM Digital Library](https://dl.acm.org/doi/full/10.1145/3706598.3714221){: .btn .btn--info}
 
 <br>
 

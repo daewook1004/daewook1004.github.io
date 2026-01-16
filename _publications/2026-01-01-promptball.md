@@ -8,16 +8,10 @@ date: 2026-01-01
 venue: 'Under Review'
 paperurl: '#'
 header:
-  teaser: # /images/promptball-teaser.gif (여기에 데모 영상 GIF 경로를 넣으시면 리스트에서 보입니다)
+  teaser: /images/PromptBall_teasure.png 
+  
 ---
-# 🎥 Demo Video
 
-<video width="100%" height="auto" controls playsinline preload="auto">
-  <source src="{{ site.baseurl }}/files/PromptBall_DemoVideo.mp4" type="video/mp4">
-  <p>Your browser does not support the video tag. Please download the video <a href="{{ site.baseurl }}/files/PromptBall_DemoVideo.mp4">here</a>.</p>
-</video>
-
-<br>
 
 # 💡 Paper Overview
 
@@ -38,7 +32,7 @@ header:
 
 <img src="/images/PromptBall%20system%20arc.png" alt="PromptBall System Architecture" style="width:100%; margin-top: 10px; margin-bottom: 20px;"> 
 
-#### **System Pipeline**
+### **System Pipeline**
 *   **Commentary Extraction**: 방송 오디오에서 STT를 통해 플레이 단위의 텍스트 코멘터리를 추출
 *   **Game Summarization**: LLM이 긴 코멘터리를 이닝 단위로 분석하여 주요 사건 중심의 **구조화된 경기 연대기(Knowledge Base)** 생성
 
@@ -78,3 +72,13 @@ PromptBall은 단순한 검색 정확도를 넘어, **사용자 경험**을 핵�
 [<i class="fas fa-file-pdf"></i> Download Paper (PDF)](#){: .btn .btn--primary}
 
 
+
+
+<br>
+<hr>
+
+# 🎥 Demo Video
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <iframe src="https://www.youtube.com/embed/rKI30xEOafA" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
